@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+    //freopen("input.txt","r",stdin);
+    //freopen("output.txt","w",stdout);
     int test_cases,i,j,n,k;
     cin>>test_cases;
     string ss;
